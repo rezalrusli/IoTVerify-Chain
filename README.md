@@ -21,30 +21,3 @@ Table of Contents
 13.	Common Issues and Troubleshooting
 ________________________________________
 
-1. Project Overview
-IoTVerify-Chain solves the issue of IoT device impersonation and spoofing in smart city environments.
-In a normal IoT system, an attacker may copy a device ID, MAC address, IP address, or vendor information. However, in IoTVerify-Chain, each device has a cryptographic identity.
-Each device identity consists of:
-•	Device Public Address
-•	Device Private Key
-•	Device ID
-•	Device Name
-•	Device Type
-•	Vendor
-•	Registration Status
-•	Registration Timestamp
-The public address is stored on blockchain, while the private key is used to prove ownership during verification.
-________________________________________
-
-2. Technology Stack
-This project uses:
-•	Solidity — Smart contract programming language
-•	Hardhat — Smart contract development and deployment framework
-•	Ethereum Sepolia Testnet — Public blockchain test network
-•	MetaMask — Wallet connection and transaction signing
-•	Ethers.js — Blockchain interaction library
-•	React + Vite — Frontend dApp framework
-•	Alchemy RPC — Sepolia JSON-RPC provider
-________________________________________
-3. Project Folder Structure
-
