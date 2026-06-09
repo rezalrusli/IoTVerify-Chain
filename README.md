@@ -1,4 +1,4 @@
-# iotverifychain
+# IoTVerify-Chain
 Blockchain-Based IoT Device Identity Management for Smart City
 
 IoTVerify-Chain is a decentralized application (dApp) for onboarding and verifying IoT device identities in a smart city environment. The system is designed for multi-agency and multi-vendor smart city deployments, where devices such as CCTV cameras, traffic sensors, water sensors, and environmental sensors may come from different departments, vendors, brands, and models.
