@@ -6,5 +6,7 @@ IoTVerify-Chain is a decentralized application (dApp) for onboarding and verifyi
 The purpose of IoTVerify-Chain is not to store IoT operational data such as CCTV footage, water level readings, or traffic data. Instead, it stores trusted device identity records on blockchain. The actual device data remains in each agency’s platform or database. Blockchain is used as an immutable device identity registry to support device authenticity, auditability, and trust.
 
 IotVerify-Chain Architecture:
+
+
 <img width="560" height="388" alt="iotverify-chain architecture 1" src="https://github.com/user-attachments/assets/6bddfe6a-9afd-4ad7-a034-193601430db3" />
 <img width="716" height="420" alt="iotverify-chain architecture 2" src="https://github.com/user-attachments/assets/f09996a5-17b6-4601-a6cf-b2bdfd1cba89" />
