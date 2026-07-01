@@ -14,7 +14,7 @@ IoTVerify-Chain is a blockchain-based decentralized application (dApp) that prov
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 - Project Overview
 - Technology Stack
