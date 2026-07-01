@@ -365,3 +365,9 @@ Universiti Putra Malaysia
 ---
 
 ⭐ If you find this project useful, please consider giving it a star.
+
+# Acknowledgements
+
+The authors would like to express their sincere gratitude to **Dr. Lia (Faculty of Computer Science and Information Technology, Universiti Putra Malaysia)** for her guidance throughout the CCS5537 Blockchain Technology course.
+
+Special thanks are also extended to **[Farhan Naza](https://github.com/farhannaza/)** for the valuable guidance and technical references that supported the development of the IoTVerify-Chain system.
