@@ -350,7 +350,7 @@ npm run dev
 
 ---
 
-# 📄 License
+# License
 
 Developed for
 
