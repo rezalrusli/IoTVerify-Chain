@@ -368,6 +368,6 @@ Universiti Putra Malaysia
 
 # Acknowledgements
 
-The authors would like to express their sincere gratitude to **Dr. Lia (Faculty of Computer Science and Information Technology, Universiti Putra Malaysia)** for her guidance throughout the CCS5537 Blockchain Technology course.
+The authors would like to express their sincere gratitude to **Dr. Lia (Faculty of Computer Science and Information Technology, Universiti Putra Malaysia)** for her guidance throughout the CCS5537 Blockchain Technology course. And also to my team member Hafiz, Mowlid and Yakubu for the ideas, commitment and teamwork effort.
 
 Special thanks are also extended to **[Farhan Naza](https://github.com/farhannaza/)** for the valuable guidance and technical references that supported the development of the IoTVerify-Chain system.
