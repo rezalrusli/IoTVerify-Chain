@@ -86,7 +86,9 @@ IoTVerify-Chain/
 │   ├── src/
 |   |     ├── App.jsx
 |   |     ├── App.css
-|   |     └── IoTVerifyChain.json
+|   |     ├── IoTVerifyChain.json
+|   |     ├── index.css
+|   |     └── main.jsx
 │   ├── public/
 │   ├── package.json
 │   └── vite.config.js
@@ -145,8 +147,8 @@ blockchain/.env
 ```
 
 ```env
-SEPOLIA_RPC_URL=
-PRIVATE_KEY=
+SEPOLIA_RPC_URL=https://eth-sepolia.g.alchemy.com/v2/xxxxxxxxxxxxxxxxxxx-x <-- your sepolia rpc url
+PRIVATE_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX <-- your private key
 ```
 
 ---
@@ -160,7 +162,7 @@ frontend/.env
 ```
 
 ```env
-VITE_CONTRACT_ADDRESS=
+VITE_CONTRACT_ADDRESS=0xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX <-- your vite contract address 
 ```
 
 ---
