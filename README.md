@@ -6,7 +6,7 @@ IoTVerify-Chain is a blockchain-based decentralized application (dApp) that prov
 
 ---
 
-## 🌆 Web3 dApp Architecture
+## Web3 dApp Architecture
 
 <p align="center">
   <img src="screenshots/architecture.png" width="900">
@@ -33,7 +33,7 @@ IoTVerify-Chain is a blockchain-based decentralized application (dApp) that prov
 
 ---
 
-# 🚀 Project Overview
+# Project Overview
 
 IoTVerify-Chain addresses IoT device spoofing and impersonation in smart city environments.
 
@@ -53,7 +53,7 @@ The blockchain stores only the public identity, while the device owner securely 
 
 ---
 
-# 🛠 Technology Stack
+# Technology Stack
 
 | Component | Technology |
 |-----------|------------|
@@ -67,7 +67,7 @@ The blockchain stores only the public identity, while the device owner securely 
 
 ---
 
-# 📁 Project Folder Structure
+# Project Folder Structure
 
 ```text
 IoTVerify-Chain/
@@ -96,7 +96,7 @@ IoTVerify-Chain/
 
 ---
 
-# 📋 Prerequisites
+# Prerequisites
 
 Install the following software before running the project.
 
@@ -116,7 +116,7 @@ npm -v
 
 ---
 
-# 📦 Install Dependencies
+# Install Dependencies
 
 ### Blockchain
 
@@ -134,7 +134,7 @@ npm install
 
 ---
 
-# ⚙ Configure Environment Files
+# Configure Environment Files
 
 ## Blockchain
 
@@ -165,7 +165,7 @@ VITE_CONTRACT_ADDRESS=
 
 ---
 
-# ⚡ Compile Smart Contract
+# Compile Smart Contract
 
 ```bash
 cd blockchain
@@ -193,7 +193,7 @@ frontend/src/IoTVerifyChain.json
 
 ---
 
-# 🚀 Deploy Smart Contract
+# Deploy Smart Contract
 
 ```bash
 npx hardhat run scripts/deploy.ts --network sepolia
@@ -210,7 +210,7 @@ IoTVerify-Chain deployed to:
 
 ---
 
-# 🦊 Configure MetaMask
+# Configure MetaMask
 
 Use
 
@@ -224,7 +224,7 @@ Use
 
 ---
 
-# 💻 Run Frontend
+# Run Frontend
 
 ```bash
 cd frontend
@@ -240,7 +240,7 @@ http://localhost:5173
 
 ---
 
-# 🧪 Testing
+# Testing
 
 ## Register Device
 
@@ -277,7 +277,7 @@ Expected Result
 
 ---
 
-# 🔄 System Workflow
+# System Workflow
 
 ```text
 Generate Device Wallet
@@ -303,7 +303,7 @@ Verified / Failed
 
 ---
 
-# 🌍 Real-World Deployment
+# Real-World Deployment
 
 For demonstration purposes, the device private key is stored in a downloadable credential file.
 
@@ -316,7 +316,7 @@ In production, the private key should be securely embedded within the IoT device
 
 ---
 
-# ⚠ Troubleshooting
+# Troubleshooting
 
 ## "could not coalesce error"
 
