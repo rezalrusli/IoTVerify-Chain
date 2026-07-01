@@ -316,26 +316,6 @@ In production, the private key should be securely embedded within the IoT device
 
 ---
 
-# 📷 Application Screenshots
-
-## Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-## Device Registration
-
-![Registration](screenshots/register.png)
-
----
-
-## Device Verification
-
-![Verification](screenshots/verify.png)
-
----
-
 # ⚠ Troubleshooting
 
 ## "could not coalesce error"
