@@ -353,6 +353,7 @@ npm run dev
 
 https://www.youtube.com/watch?v=ak7TEQKZ8Cc&t=21s
 
+---
 # License
 
 Developed for
