@@ -73,23 +73,23 @@ The blockchain stores only the public identity, while the device owner securely 
 IoTVerify-Chain/
 │
 ├── blockchain/
-│   ├── contracts/
+│   ├── contracts/IoTVerifyChain.sol
 │   ├── scripts/
+|   |     ├── deploy.ts
+|   |     └── check.ts
 │   ├── artifacts/
 │   ├── hardhat.config.ts
-│   └── package.json
+│   ├── package.json
+|   └── .env
 │
 ├── frontend/
 │   ├── src/
+|   |     ├── App.jsx
+|   |     ├── App.css
+|   |     └── IoTVerifyChain.json
 │   ├── public/
 │   ├── package.json
 │   └── vite.config.js
-│
-├── screenshots/
-│
-├── report/
-│
-├── presentation/
 │
 └── README.md
 ```
